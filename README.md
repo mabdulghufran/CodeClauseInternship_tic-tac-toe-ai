@@ -99,9 +99,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/tic-tac-toe-ai](https://github.com/yourusername/tic-tac-toe-ai)
+- **GitHub**: [@yourusername](https://github.com/mabdulghuran)
+- **Project Link**: [https://github.com/yourusername/tic-tac-toe-ai](https://github.com/mabdulghufran/tic-tac-toe-ai)
 
 ---
+
 
 ⭐ **Star this repository if you found it helpful!** 
