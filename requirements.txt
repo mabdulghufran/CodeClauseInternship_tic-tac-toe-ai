@@ -1,0 +1,13 @@
+# Tic Tac Toe AI - Python Dependencies
+# All dependencies are built-in Python libraries, no external packages required
+
+# Core Python libraries used:
+# - tkinter (GUI framework - built-in)
+# - random (random number generation - built-in)
+# - typing (type hints - built-in)
+
+# Python version requirement
+# Python >= 3.7
+
+# Note: This project uses only Python standard library modules
+# No pip install required - just run python Tic_Tac.py 
