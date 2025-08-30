@@ -97,14 +97,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - AI algorithm inspired by classic game theory
 - UI design principles for optimal user experience
 
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/mabdulghuran)
-- **Project Link**: [https://github.com/yourusername/tic-tac-toe-ai](https://github.com/mabdulghufran/tic-tac-toe-ai)
-
 ---
 
 
 ⭐ **Star this repository if you found it helpful!** 
+
 
 
